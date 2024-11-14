@@ -1,4 +1,4 @@
-# laravel-secure-defaults
+# Laravel Secure by Default
 Several tools, library, middleware, or others that to build a Secure by Default / Secure by Design a Laravel application
 
 ## [belajar-laravel-security](https://github.com/ProgrammerZamanNow/belajar-laravel-security)
